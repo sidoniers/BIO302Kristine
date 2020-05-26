@@ -1,5 +1,4 @@
 # BIO302Kristine
-Class
 Name?
 - Kristine Birkeli
 
