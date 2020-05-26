@@ -9,5 +9,5 @@ on to explain that I'm really a botanist.
 - (Sondre) Depends on who I'm talking to. If they don't really have any knowledge of biologi I usually just say master Student, otherwise I say ecologist
 
 In the past month, what are the three main activities you have been doing at work?
-- Climbing mountains, chilling and reading 
+- Coding, reading and labwork
 -(Sondre) Hiking, fishing, Zoom meetings
